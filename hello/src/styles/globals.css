@@ -1,0 +1,43 @@
+.content
+{
+    height: 300px;
+    width: 300px;
+}
+#wrapper
+{
+    width: 700px;
+    min-height: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
+body
+{
+    background-color: #10142a;
+    color: #fff;
+}
+.main-title
+{
+    font-size: 40px;
+}
+.nav_bttn
+{
+   
+    
+    line-height: 1.75;
+    letter-spacing: 0.02857em;
+    color: #fff ;
+    padding: 6px 16px;
+    border-radius: 4px;
+}
+.input_result > input
+{
+    width: 300px;
+    height: 300px;
+}   
+button.nav_bttn.first {
+    background-color: #d59dff;
+}
+
+button.nav_bttn.second {
+    background-color: #444a68;
+}
